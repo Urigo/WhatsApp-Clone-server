@@ -22,9 +22,9 @@
     "outputDirectory": "./test-results"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "1.14.0",
-    "@graphql-codegen/typescript": "1.14.0",
-    "@graphql-codegen/typescript-resolvers": "1.14.0",
+    "@graphql-codegen/cli": "1.21.5",
+    "@graphql-codegen/typescript": "1.22.1",
+    "@graphql-codegen/typescript-resolvers": "1.19.2",
     "@types/bcrypt": "3.0.0",
     "@types/cors": "2.8.6",
     "@types/cookie": "0.4.0",
